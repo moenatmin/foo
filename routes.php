@@ -163,7 +163,3 @@ post('/blog-create', function(){
 
 Route::resource('blog', 'BlogController');
 Route::resource('student', "StudentController");
-
-
-
-Hello, this is a snippet.
